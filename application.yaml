@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoUrl: https://manhnd9293@bitbucket.org/manhnd9293/argo-cd.git
+    repoURL: https://github.com/manhndadvesa/test-argocd.git
     targetRevision: HEAD
     path: dev
   destination:
